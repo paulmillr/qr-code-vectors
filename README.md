@@ -2,6 +2,13 @@
 
 qrcodes_v3 Dataset downloaded from BoofCV: https://boofcv.org/notwiki/regression/fiducial/qrcodes_v3.zip.
 
+## Small vectors
+
+```
+pip install qrcode
+python3 ./generate-small-vectors.py
+```
+
 ## License
 
 The license to the use of the QR Code stipulated by JIS (Japanese Industrial Standards) and the ISO are not necessary.
